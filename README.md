@@ -1,4 +1,4 @@
-# なっつんのGitHub
+# なっつんのGitHub :)
 <p align="left">
   <a href="https://github.com/Momo227/Momo227/">
     <img src="https://komarev.com/ghpvc/?username=Momo227" alt="Momo227" />
@@ -10,6 +10,12 @@
     <img height="20" src="https://img.shields.io/github/followers/Momo227?label=follow&logo=github&style=flat" />
   </a>
 </p>
+
+<li>:no_mouth:なっつん
+<li>:mailbox_with_mail:n_noguchi@ai.cs.ehime-u.ac.jp
+<li>:school: 愛媛大学
+<li>:mortar_board:工学部　人工知能研究室
+
 
 <!-- リポジトリステータス -->
 [![hogehoge's github stats](https://github-readme-stats.vercel.app/api?username=Momo227&hide=contribs&count_private=true&show_icons=true&theme=dracula)](https://github.com/Momo227/)
