@@ -12,10 +12,12 @@
 </p>
 
 ### 自己紹介
-<li>:no_mouth:なっつん
+<li>:no_mouth:野口夏希
 <li>:mailbox_with_mail:n_noguchi@ai.cs.ehime-u.ac.jp
 <li>:school: 愛媛大学
 <li>:mortar_board:工学部　人工知能研究室
+
+### 研究実績
 
 
 <!-- リポジトリステータス -->
