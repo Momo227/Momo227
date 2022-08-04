@@ -1,0 +1,11 @@
+pandas==1.4.3
+pyemd==0.5.1
+torch==1.12.0
+python-Levenshtein==0.12.2
+pytorch_lightning==1.6.4
+regex==6.0
+boto3==1.24.33
+sklearn==0.0
+openpyxl==3.0.10
+nltk==3.7
+transformers==4.20.1
